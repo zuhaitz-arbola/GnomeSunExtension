@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesunextension\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "Autumn"
+msgstr "Otoño"
+
+msgid "Autumn Equinox"
+msgstr "Equinoccio de Otoño"
+
+msgid "Azimuth"
+msgstr "Azimut"
+
+msgid "Closest Planet"
+msgstr "Planeta Más Cercano"
+
+msgid "Control how often the lunar position is recalculated"
+msgstr "Controla con qué frecuencia se recalcula la posición lunar"
+
+msgid "Control how often the planetary positions are recalculated"
+msgstr "Controla con qué frecuencia se recalculan las posiciones planetarias"
+
+msgid "Control how often the solar position is recalculated"
+msgstr "Controla con qué frecuencia se recalcula la posición solar"
+
+msgid "Coordinates not configured"
+msgstr "Coordenadas no configuradas"
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Current Earth-Sun distance in Astronomical Units (AU)"
+msgstr "Distancia actual Tierra-Sol en Unidades Astronómicas (UA)"
+
+msgid "Current astronomical season based on ecliptic longitude"
+msgstr "Estación astronómica actual basada en la longitud eclíptica"
+
+msgid "Date of the upcoming Equinox or Solstice"
+msgstr "Fecha del próximo Equinoccio o Solsticio"
+
+msgid "Day %d of %d"
+msgstr "Día %d de %d"
+
+msgid "Day Length"
+msgstr "Duración del Día"
+
+msgid "Day of Year"
+msgstr "Día del Año"
+
+msgid "Days elapsed since last New Moon (synodic month)"
+msgstr "Días transcurridos desde la última Luna Nueva (mes sinódico)"
+
+msgid "Distance"
+msgstr "Distancia"
+
+msgid "E"
+msgstr "E"
+
+msgid "Earth"
+msgstr "Tierra"
+
+msgid "Earth orbital velocity around the Sun"
+msgstr "Velocidad orbital de la Tierra alrededor del Sol"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Este positivo, oeste negativo (−180 … +180)"
+
+msgid "Elevation"
+msgstr "Elevación"
+
+msgid "Enter your latitude and longitude in decimal degrees"
+msgstr "Introduce tu latitud y longitud en grados decimales"
+
+msgid "Exact time when the Sun rises above the horizon in the morning"
+msgstr "Hora exacta en la que el Sol sale por encima del horizonte por la mañana"
+
+msgid "Exact time when the Sun sets below the horizon in the evening"
+msgstr "Hora exacta en la que el Sol se pone por debajo del horizonte en la tarde"
+
+msgid "First Quarter"
+msgstr "Cuarto Creciente"
+
+msgid "Full Moon"
+msgstr "Luna Llena"
+
+msgid "General"
+msgstr "General"
+
+msgid "Geographic Coordinates"
+msgstr "Coordenadas Geográficas"
+
+msgid "Glossary of terms"
+msgstr "Glosario de términos"
+
+msgid "Gnome Moon Extension"
+msgstr "Gnome Moon Extension"
+
+msgid "Gnome Planetarium Extension"
+msgstr "Gnome Planetarium Extension"
+
+msgid "Gnome Sun Extension"
+msgstr "Gnome Sun Extension"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Highest solar position of the day"
+msgstr "Posición solar más alta del día"
+
+msgid "Horizontal direction from North (0° to 360°)"
+msgstr "Dirección horizontal desde el Norte (0° a 360°)"
+
+msgid "Hours and minutes of sunlight"
+msgstr "Horas y minutos de luz solar"
+
+msgid "How to read this chart?"
+msgstr "¿Cómo leer este gráfico?"
+
+msgid "Illumination"
+msgstr "Iluminación"
+
+msgid "Jakin | Athenaeum"
+msgstr "Jakin | Athenaeum"
+
+msgid "Jakin | Bibliothēke"
+msgstr "Jakin | Bibliothēke"
+
+msgid "Jupiter"
+msgstr "Júpiter"
+
+msgid "Last Quarter"
+msgstr "Cuarto Menguante"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Los valores más bajos aumentan ligeramente el uso de la CPU"
+
+msgid "Lunar phase tracker"
+msgstr "Rastreador de fase lunar"
+
+msgid "Mars"
+msgstr "Marte"
+
+msgid "Mercury"
+msgstr "Mercurio"
+
+msgid "Moon Age"
+msgstr "Edad de la Luna"
+
+msgid "Moon above horizon"
+msgstr "Luna sobre el horizonte"
+
+msgid "Moon below horizon"
+msgstr "Luna bajo el horizonte"
+
+msgid "N"
+msgstr "N"
+
+msgid "Neptune"
+msgstr "Neptuno"
+
+msgid "New Moon"
+msgstr "Luna Nueva"
+
+msgid "Next Event"
+msgstr "Próximo Evento"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Norte positivo, sur negativo (−90 … +90)"
+
+msgid "Ordinal day number within the current tropical year"
+msgstr "Número ordinal del día dentro del año trópico actual"
+
+msgid "Original idea by Zuhaitz (Alberto V. I.), created with Google's Antigravity and VSCodium"
+msgstr "Idea original por Zuhaitz (Alberto V. I.), creado con Antigravity de Google y VSCodium."
+
+msgid "Part of Jakin | Athenaeum, a free knowledge desktop ecosystem for science, philosophy, and art."
+msgstr "Parte de Jakin | Athenaeum, un ecosistema de escritorio de conocimiento libre para la ciencia, la filosofía y el arte."
+
+msgid "Percentage of visible surface lit by the Sun"
+msgstr "Porcentaje de superficie visible iluminada por el Sol"
+
+msgid "Phase"
+msgstr "Fase"
+
+msgid "Physical distance from Earth to Moon"
+msgstr "Distancia física de la Tierra a la Luna"
+
+msgid "Planet with the smallest distance to Earth today"
+msgstr "Planeta con la menor distancia a la Tierra hoy"
+
+msgid "Polar day (sun does not set)"
+msgstr "Día polar (el sol no se pone)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Noche polar (el sol no sale)"
+
+msgid "Real-time lunar phase and astronomical tracker"
+msgstr "Rastreador de fase lunar y astronómico en tiempo real"
+
+msgid "Real-time planetary positions as seen from above the ecliptic plane"
+msgstr "Posiciones planetarias en tiempo real vistas desde arriba del plano de la eclíptica"
+
+msgid "Real-time calculation and representation of solar position and associated astronomical data."
+msgstr "Cálculo y representación en tiempo real de la posición solar y datos astronómicos asociados."
+
+msgid "Real-time solar system orrery inspired by classic astronomical tools"
+msgstr "Planetario del sistema solar en tiempo real inspirado en herramientas astronómicas clásicas"
+
+msgid "Real-time solar system planetarium"
+msgstr "Planetario del sistema solar en tiempo real"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
+msgid "Refresh interval (seconds)"
+msgstr "Intervalo de actualización (segundos)"
+
+msgid "S"
+msgstr "S"
+
+msgid "Saturn"
+msgstr "Saturno"
+
+msgid "Season"
+msgstr "Estación"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Solar Noon"
+msgstr "Mediodía Solar"
+
+msgid "Solar position tracker"
+msgstr "Rastreador de posición solar"
+
+msgid "Spring"
+msgstr "Primavera"
+
+msgid "Spring Equinox"
+msgstr "Equinoccio de Primavera"
+
+msgid "Summer"
+msgstr "Verano"
+
+msgid "Summer Solstice"
+msgstr "Solsticio de Verano"
+
+msgid "Sun Distance"
+msgstr "Distancia Solar"
+
+msgid "Sun above horizon"
+msgstr "Sol sobre el horizonte"
+
+msgid "Sun below horizon"
+msgstr "Sol bajo el horizonte"
+
+msgid "Real-time diagram of the complete solar trajectory based on geographic coordinates. The celestial dome is represented with the zenith at the center (90°), altitude circles (60° and 30°), and the horizon at the outer ring (0°); the sun travels along a gradual color arc simulating atmospheric temperature."
+msgstr "Diagrama en tiempo real de la trayectoria solar completa según las coordenadas geográficas. La cúpula celeste se representa con el cénit en el centro (90°), círculos de altitud (60° y 30°) y el horizonte en el anillo exterior (0°), el sol viaja por un arco de color gradual que simula la temperatura atmosférica."
+
+msgid "Sunrise"
+msgstr "Amanecer"
+
+msgid "Sunset"
+msgstr "Atardecer"
+
+msgid "This diagram represents the real-time heliocentric positions of all 8 planets calculated using JPL Keplerian orbital elements. The center is the Sun, and distances use a split-linear scale to show both inner and outer planets clearly. Scroll to zoom in/out or double-click to reset view."
+msgstr "Este diagrama representa las posiciones heliocéntricas en tiempo real de los 8 planetas calculadas utilizando los elementos orbitales keplerianos del JPL. El centro es el Sol, y las distancias usan una escala lineal dividida para mostrar claramente tanto los planetas interiores como los exteriores. Desplácese para acercar/alejar o haga doble clic para restablecer la vista."
+
+msgid "This image represents the real-time lunar phase and illuminated surface. The dividing line between light and shadow is called the terminator, and varies according to the geometry between Sun, Earth, and Moon."
+msgstr "Esta imagen representa la fase lunar y la superficie iluminada en tiempo real. La línea divisoria entre luz y sombra se llama terminador, y varía de acuerdo con la geometría entre el Sol, la Tierra y la Luna."
+
+msgid "This projection of the celestial dome shows the Sun position from your geographical location. The center represents the zenith (90°), the outer circle is the horizon (0°), and the inner circles (almucantarats) mark 30° and 60° of elevation. The white line traces today's diurnal arc."
+msgstr "Esta proyección de la cúpula celeste muestra la posición del Sol desde su ubicación geográfica. El centro representa el cénit (90°), el círculo exterior es el horizonte (0°) y los círculos interiores (almucantarats) marcan 30° y 60° de elevación. La línea blanca traza el arco diurno de hoy."
+
+msgid "Uranus"
+msgstr "Urano"
+
+msgid "Velocity"
+msgstr "Velocidad"
+
+msgid "Venus"
+msgstr "Venus"
+
+msgid "Vertical angle above horizon (0° to 90°)"
+msgstr "Ángulo vertical sobre el horizonte (0° a 90°)"
+
+msgid "Visible tonight"
+msgstr "Visible esta noche"
+
+msgid "Visual state of the Moon"
+msgstr "Estado visual de la Luna"
+
+msgid "W"
+msgstr "O"
+
+msgid "Waning Crescent"
+msgstr "Luna Menguante"
+
+msgid "Waning Gibbous"
+msgstr "Gibosa Menguante"
+
+msgid "Waxing Crescent"
+msgstr "Luna Creciente"
+
+msgid "Waxing Gibbous"
+msgstr "Gibosa Creciente"
+
+msgid "What this chart represents"
+msgstr "Qué representa este gráfico"
+
+msgid "Winter"
+msgstr "Invierno"
+
+msgid "Winter Solstice"
+msgstr "Solsticio de Invierno"
+
+msgid "days"
+msgstr "días"
+

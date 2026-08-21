@@ -1,0 +1,12 @@
+{
+    "uuid": "gnomesunextension@aiurri.xyz",
+    "name": "Gnome Sun Extension",
+    "description": "Real-time calculation and representation of solar position and associated astronomical data",
+    "shell-version": [
+        "46"
+    ],
+    "version": 1,
+    "settings-schema": "org.gnome.shell.extensions.gnomesunextension",
+    "gettext-domain": "gnomesunextension",
+    "url": "https://github.com/zuhaitz-arbola/GnomeSunExtension"
+}
